@@ -20,4 +20,4 @@ Which will remind you that *"Tea is ready!"* after 3 minutes and 30 seconds. You
 
 ## Installation
 
-Download the [Alfred Workflow](https://github.com/birnstiel/ttimer/blob/master/TTimer.alfredworkflow?raw=true) and double-click to install.
+Download the Alfred Workflow File from [releases](https://www.github.com/birnstiel/ttimer/releases) and double-click to install.
