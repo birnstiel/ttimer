@@ -16,7 +16,7 @@ jobs:
         id: builder
         uses: mperezi/build-alfred-workflow@master
         with:
-          workflow_dir: ttimer
+          workflow_dir: TTimer
           exclude_patterns: .git/* .github/*
 
       - name: Create release
